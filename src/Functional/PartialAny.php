@@ -84,4 +84,4 @@ function placeholder()
 }
 
 /** Define unicode ellipsis constant */
-define('Functional\\…', …());
+@(define('Functional\\…', …()));
